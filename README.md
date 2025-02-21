@@ -19,9 +19,13 @@ Example Input
 
 Enter number of points: 5
 Enter x and y coordinates: 1 1
+
 Enter x and y coordinates: 2 2
+
 Enter x and y coordinates: 3 3
+
 Enter x and y coordinates: 5 5
+
 Enter x and y coordinates: 6 6
 
 Output

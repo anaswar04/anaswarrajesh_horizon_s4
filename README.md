@@ -18,6 +18,7 @@ NumPy
 Example Input
 
 Enter number of points: 5
+
 Enter x and y coordinates: 1 1
 
 Enter x and y coordinates: 2 2

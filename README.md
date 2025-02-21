@@ -24,10 +24,16 @@ Follow the official ROS 2 Humble installation guide: ROS 2 Installation
 Install ROS 2 dependencies and set up the environment:
 
 sudo apt update && sudo apt install -y software-properties-common
+
 sudo add-apt-repository universe
+
 sudo apt update && sudo apt install -y curl
+
 curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key | sudo apt-key add -
+
 sudo apt update && sudo apt install -y ros-humble-desktop
+
 echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
+
 source ~/.bashrc
 
